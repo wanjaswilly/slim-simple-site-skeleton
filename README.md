@@ -21,7 +21,7 @@ A lightweight, reusable Slim 4 + Twig boilerplate for static company or portfoli
 -  Fast and easy to clone for new websites
 -  A `slim` cli command for ease in creating or removing pages and serving the site
 
-## 🛠 Slim CLI
+## Slim CLI
 
 Easily scaffold pages, partials, or run the local server using the built-in CLI tool:
 
@@ -118,7 +118,7 @@ These are rendered automatically via middleware defined in `bootstrap.php`.
 
 ---
 
-## 🔗 License
+## License
 
 MIT License © 2025 Wilson Wanja
 
